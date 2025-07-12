@@ -5,3 +5,5 @@ if banana:
     banana = 10
 else:
     idi_nahy='idi_nahy'
+
+orange = 'trusiki altushki'
